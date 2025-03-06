@@ -1,3 +1,2 @@
 # Music_Generation
-1 Introduction to rnn
-2 Music generation using PyTorch
+Introduction to rnn and Music generation using PyTorch
